@@ -1,0 +1,11 @@
+{
+    "version": "1.0.1",
+    "changelog": [
+        "Initial release",
+        "Added typing indicators",
+        "Added private messages",
+        "Added staff chat",
+        "Added dice and RPS games"
+    ],
+    "download": "https://github.com/Fivecore/Corefive-chat/releases/latest"
+}
