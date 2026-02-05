@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.4",
     "changelog": [
         "Initial release",
         "Added typing indicators",
@@ -8,6 +8,7 @@
         "Added dice and RPS games",
          "Redesign new ui for settings"
     ],
-    "download": "https://github.com/Fivecore/Corefive-chat/releases/latest"
+    "download": "portal.cfx.re/assets/"
 
 }
+
